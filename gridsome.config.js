@@ -1,6 +1,7 @@
 module.exports = {
   siteName: 'Sam Marshall resume',
   siteUrl: 'https://www.gridsome.org',
+  icon: '~/src/favicon.png',
   plugins: [{
       use: '@gridsome/plugin-google-analytics',
       options: {
@@ -18,6 +19,9 @@ module.exports = {
     loaderOptions: {
       scss: {}
     }
+
+}
+
 }
 }
 
