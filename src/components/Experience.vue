@@ -7,7 +7,7 @@
         <div class="resume-content">
           <h3 class="mb-0">Engineer</h3>
           <div class="subheading mb-3">Planit Software Testing</div>
-          <p>As an analyst a software testing consultancy I have been working in the Performance
+          <p>As an analyst In a software testing consultancy I have been working in the Performance
 testing practice. During my time here I have been working on multiple projects in a
 government organization with complex enterprise insurance systems. Alongside brief
 experience in functional testing engagements and being introduced to Test Automation.</div>
