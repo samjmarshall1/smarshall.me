@@ -13,7 +13,7 @@
       </div>
       <p
         class="lead mb-5"
-      >I am a fresh faced Kiwi from the top of the South Island at start of his career in Performance Testing, With a passion for quality and problem solving.</p>
+      >Performance Tester, With a passion for quality and problem solving.</p>
       <div class="social-icons">
         <a href="https://www.linkedin.com/in/samueljohnmarshall/" target="_blank" rel="noopener noreferrer">
           <font-awesome :icon="['fab', 'linkedin']"/>
