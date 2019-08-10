@@ -6,7 +6,7 @@
         <span class="text-primary">Marshall</span>
       </h1>
       <div class="subheading mb-5">
-        192 Willis Street,Te Aro | Wellington | New Zealand | · (+64) 27 453-1173 ·
+        5d/192 Willis Street,Te Aro | Wellington | New Zealand | · (+64) 27 453-1173 ·
         <a
           href="mailto:samjmarshall1@live.com"
         >samjmarshall1@live.com</a>

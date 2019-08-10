@@ -71,7 +71,7 @@
           <font-awesome class="fa-li" :icon="['fas', 'check']"/>Performance test strategy planning &amp; Test data setup
         </li>
         <li>
-          <font-awesome class="fa-li" :icon="['fas', 'check']"/>Reporting &amp; presenting of findings.
+          <font-awesome class="fa-li" :icon="['fas', 'check']"/>Reporting &amp; presenting of findings
         </li>
         <li>
           <font-awesome class="fa-li" :icon="['fas', 'check']"/>Cross functional teams
