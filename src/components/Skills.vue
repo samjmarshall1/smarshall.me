@@ -14,6 +14,9 @@
           <font-awesome class="fa-li" :icon="['fas', 'check']"/>Java
         </li>
         <li>
+          <font-awesome class="fa-li" :icon="['fas', 'check']"/>Python
+        </li>
+        <li>
           <font-awesome class="fa-li" :icon="['fas', 'check']"/>Perl
         </li>
         <li>
@@ -65,19 +68,19 @@
       <div class="subheading mb-3">Workplace Experience</div>
       <ul class="fa-ul mb-0">
         <li>
-          <font-awesome class="fa-li" :icon="['fas', 'check']"/>Performance Test Strategy Planning &amp; Test Data Setup
+          <font-awesome class="fa-li" :icon="['fas', 'check']"/>Performance test strategy planning &amp; Test data setup
         </li>
         <li>
           <font-awesome class="fa-li" :icon="['fas', 'check']"/>Reporting &amp; presenting of findings.
         </li>
         <li>
-          <font-awesome class="fa-li" :icon="['fas', 'check']"/>Cross Functional Teams
+          <font-awesome class="fa-li" :icon="['fas', 'check']"/>Cross functional teams
         </li>
         <li>
           <font-awesome class="fa-li" :icon="['fas', 'check']"/>Agile Development
         </li>
         <li>
-          <font-awesome class="fa-li" :icon="['fas', 'check']"/>Experience Scripting multiple protocols eg: Web Services APIs,HTTP, Ajax,XML
+          <font-awesome class="fa-li" :icon="['fas', 'check']"/>Experience scripting multiple protocols eg: Web Services APIs,HTTP, Ajax,XML
         </li>
         <li>
           <font-awesome class="fa-li" :icon="['fas', 'check']"/>Strong understanding of SDLC

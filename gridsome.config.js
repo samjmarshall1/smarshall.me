@@ -1,7 +1,7 @@
 module.exports = {
-  siteName: 'Sam Marshall resume',
+  siteName: 'Sam Marshall',
   siteUrl: 'https://www.gridsome.org',
-  icon: '~/src/favicon.png',
+  
   plugins: [{
       use: '@gridsome/plugin-google-analytics',
       options: {

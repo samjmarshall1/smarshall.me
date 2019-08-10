@@ -20,7 +20,6 @@
 import About from "../components/About";
 import Experience from "../components/Experience";
 import Education from "../components/Education";
-// import Performance_Test from "../components/Performance_Test";
 import Skills from "../components/Skills";
 import Interests from "../components/Interests";
 import Awards from "../components/Awards";
@@ -29,7 +28,6 @@ export default {
   components: {
     About,
     Experience,
-    // Performance_Test,
     Education,
     Skills,
     Skills,
@@ -37,7 +35,7 @@ export default {
     Awards
   },
   metaInfo: {
-    title: "Sam Marshall Resume",
+    title: "Sam Marshall",
 
   }
 };
