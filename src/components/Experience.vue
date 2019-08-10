@@ -10,8 +10,7 @@
           <p>As an analyst a software testing consultancy I have been working in the Performance
 testing practice. During my time here I have been working on multiple projects in a
 government organization with complex enterprise insurance systems. Alongside brief
-experience in functional testing engagements and being introduced to Test Automation. I was awarded promotion after 1.5 years in the Job.</p>
-        </div>
+experience in functional testing engagements and being introduced to Test Automation.</div>
         <div class="resume-date text-md-right">
           <span class="text-primary">Feb 2018 - Present</span>
         </div>

@@ -31,6 +31,9 @@
         <li>
           <font-awesome class="fa-li" :icon="['fas', 'check']"/> *unix Commands
         </li>
+        <li>
+          <font-awesome class="fa-li" :icon="['fas', 'check']"/>System Monitoring
+        </li>
 
       </ul>
       <br> <br> <br>
@@ -48,9 +51,7 @@
         <li>
           <font-awesome class="fa-li" :icon="['fas', 'check']"/>Agile Development
         </li>
-        <li>
-          <font-awesome class="fa-li" :icon="['fas', 'check']"/>System Monitoring 
-        </li>
+
       </ul>
     </div>
   </section>
