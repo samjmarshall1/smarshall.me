@@ -35,7 +35,7 @@ export default {
     Awards
   },
   metaInfo: {
-    title: "Sam Marshall",
+    title: "Resume",
 
   }
 };
