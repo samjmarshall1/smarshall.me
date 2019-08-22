@@ -13,7 +13,7 @@
       </div>
       <p
         class="lead mb-5"
-      >Performance Tester, With a passion for quality and problem solving.</p>
+      >Hi! I am a Performance Tester, With a passion for quality and problem solving. I have dual citizenship (NZ & British) and i'm looking for oppurtunities in the United Kingdom </p>
       <div class="social-icons">
         <a href="https://www.linkedin.com/in/samueljohnmarshall/" target="_blank" rel="noopener noreferrer">
           <font-awesome :icon="['fab', 'linkedin']"/>

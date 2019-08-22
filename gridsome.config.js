@@ -1,12 +1,16 @@
+var HtmlWebpackPlugin = require('html-webpack-plugin');
+var path = require('path');
 module.exports = {
   siteName: 'sammarshall.me',
   siteUrl: 'https://www.sammarshall.me',
+
 
   plugins: [{
       use: '@gridsome/plugin-google-analytics',
       options: {
         id: 'UA-145391677-1'
       }
+    // [new HtmlWebpackPlugin()]
     },
     {
       use: '@gridsome/plugin-sitemap',
