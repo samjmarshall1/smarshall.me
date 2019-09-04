@@ -5,12 +5,21 @@ module.exports = {
   siteUrl: 'https://www.sammarshall.me',
 
 
-  plugins: [{
+  plugins: [
+    {
       use: '@gridsome/plugin-google-analytics',
       options: {
         id: 'UA-145391677-1'
       }
     // [new HtmlWebpackPlugin()]
+  },
+    {
+      use: '@gridsome/source-filesystem',
+      options: {
+        path: 'blog/posts/**/*.md',
+        typeName: 'Post',
+        route: '/blog/:slug'
+      }
     },
     {
       use: '@gridsome/plugin-sitemap',

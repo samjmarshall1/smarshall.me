@@ -60,6 +60,12 @@
           <li>
             <font-awesome class="fa-li" :icon="['fas', 'check']"/> R-Studio
           </li>
+          <li>
+            <font-awesome class="fa-li" :icon="['fas', 'check']"/> Selenium WebDriver
+          </li>
+          <li>
+            <font-awesome class="fa-li" :icon="['fas', 'check']"/> Cucumber  
+          </li>
             <br>
         </ul>
 

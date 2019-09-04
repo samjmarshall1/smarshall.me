@@ -7,10 +7,12 @@
 
 <script>
 import Nav from "../components/Nav";
+// import Blog from "../components/Blog";
 
 export default {
   components: {
     Nav
+    // Blog
   }
 };
 </script>

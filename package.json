@@ -14,8 +14,6 @@
     "@fortawesome/vue-fontawesome": "^0.1.6",
     "@gridsome/plugin-google-analytics": "^0.1.0",
     "@gridsome/plugin-sitemap": "^0.1.1",
-    "@gridsome/source-filesystem": "^0.3.0",
-    "@gridsome/transformer-remark": "^0.2.1",
     "bootstrap": "^4.3.1",
     "bootstrap-vue": "^2.0.0-rc.18",
     "gridsome": "^0.5.0",
@@ -26,6 +24,8 @@
     "vue-svg-loader": "^0.12.0"
   },
   "devDependencies": {
+    "@gridsome/source-filesystem": "^0.3.0",
+    "@gridsome/transformer-remark": "^0.2.1",
     "html-webpack-plugin": "^3.2.0",
     "vue-svgicon": "^3.2.6"
   }
